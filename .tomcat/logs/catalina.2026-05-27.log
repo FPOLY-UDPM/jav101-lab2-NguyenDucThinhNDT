@@ -76,3 +76,7 @@
 27-May-2026 10:30:52.863 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\jav101-lab2-NguyenDucThinhNDT\.tomcat\conf\Catalina\localhost\jav101-lab2-NguyenDucThinhNDT.xml] has finished in [552] ms
 27-May-2026 10:30:52.869 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 27-May-2026 10:30:52.912 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [690] milliseconds
+27-May-2026 11:08:28.468 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-May-2026 11:08:28.487 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-May-2026 11:08:28.593 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-May-2026 11:08:28.602 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
